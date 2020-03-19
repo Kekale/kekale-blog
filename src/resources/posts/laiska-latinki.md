@@ -1,4 +1,4 @@
-#Laiska latinki: perffiä kakutukseen
+# Laiska latinki: perffiä kakutukseen
 Tervetuloa Kekäle.js -blogin pariin.
 
 Tässä jaksossa esittelemme super käpysen tavan lazy loudaa mikä vaa objekti :) Toivottavasti tykkäät!
